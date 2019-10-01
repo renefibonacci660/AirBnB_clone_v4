@@ -218,6 +218,10 @@ of the search from the database sends them to the page.
 
 #### API Status
 
+The status of the API can be seen in the top right hand corner of the webpage. if the cirle is grey
+there is an issue with the api. Grey indicates it is not on. if it is Red the API is running 
+properly, the status value is 'OK'.
+
 
 
 ## Authors

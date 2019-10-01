@@ -222,6 +222,7 @@ The status of the API can be seen in the top right hand corner of the webpage. i
 there is an issue with the api. Grey indicates it is not on. if it is Red the API is running 
 properly, the status value is 'OK'.
 
+* To start API:
 
 
 ## Authors

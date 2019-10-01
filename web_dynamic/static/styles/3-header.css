@@ -13,7 +13,15 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 }
 
-div.available {
+#api_status {
+	float: right;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	background-color: #cccccc;
+	position: relative;
+}
+#api_status.available {
     background-color: #ff545f;
 }
 

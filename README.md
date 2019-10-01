@@ -210,6 +210,8 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 Uses [Travis-CI](https://travis-ci.org/) to run all tests on all commits to the
 github repo
 
+---
+
 ## Web Dynamic (latest update)
 
 The static search bar is updating to a functioning search bar. There is not a checkbox for the list of Amenities, States, and Cities. When either is selected they are stored into a list until search 

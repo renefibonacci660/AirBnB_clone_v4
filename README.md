@@ -212,6 +212,10 @@ github repo
 
 ## Web Dynamic (latest update)
 
+The static search bar is updating to a functioning search bar. There is not a checkbox for the list of Amenities, States, and Cities. When either is selected they are stored into a list until search 
+is clicked. Once search is clicked JQuery is used to call only the objects that meet the requirments
+of the search from the database sends them to the page.
+
 
 ## Authors
 

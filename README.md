@@ -216,6 +216,9 @@ The static search bar is updating to a functioning search bar. There is not a ch
 is clicked. Once search is clicked JQuery is used to call only the objects that meet the requirments
 of the search from the database sends them to the page.
 
+#### API Status
+
+
 
 ## Authors
 
